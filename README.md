@@ -13,6 +13,7 @@ Projeto desenvolvido no evento Explorer Lab promovido pela Rocketseat, nos dias 
 
 <p align="center">
   <img alt="wildpay" src="assets/previewGif.gif" width="100%">
+  <img alt="imagemwildpay" src="assets/previewImage.png">
 </p>
 
 ## 🚀 Tecnologias
